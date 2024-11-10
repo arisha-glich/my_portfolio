@@ -37,3 +37,5 @@ public/*json
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.vercel

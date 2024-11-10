@@ -43,7 +43,7 @@
     "jose": "^5.6.3",
     "lucide-react": "^0.417.0",
     "muslim-ticket": "file:",
-    "next": "^15.0.4-canary.3",
+    "next": "14.x.x",
     "next-themes": "^0.3.0",
     "react": "^18",
     "react-day-picker": "^8.10.1",
